@@ -1,0 +1,10 @@
+# Dynamics.py
+
+## Thermal model of oceanic floor
+
+    sea Global tectonics book chapter 7
+    HFC model
+    PSM model
+    GDH model
+
+    get: heat flux, topography ...
