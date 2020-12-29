@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2006-05-28T22:28:33.130Z,-0.925,123.647,24.5,4.9,mb,42,79,,1.16,us,usp000ej6m,2014-11-07T01:29:12.356Z,"Sulawesi, Indonesia",earthquake,,,,18,reviewed,us,us
+2006-05-27T04:21:50.630Z,-7.775,110.511,10,4.6,mb,53,57.2,,1.07,us,usp000ej1v,2014-11-07T01:29:11.664Z,"Java, Indonesia",earthquake,,,,18,reviewed,us,us
+2006-05-27T03:10:02.640Z,-7.844,110.435,10,4.8,mb,98,45.7,,1.02,us,usp000ej1n,2014-11-07T01:29:11.637Z,"Java, Indonesia",earthquake,,,,30,reviewed,us,us
+2006-05-27T01:07:44.810Z,-8.115,110.353,35,4.4,mb,19,112.2,,1.78,us,usp000ej1f,2014-11-07T01:29:11.625Z,"Java, Indonesia",earthquake,,,,6,reviewed,us,us

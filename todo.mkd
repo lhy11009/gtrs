@@ -8,3 +8,10 @@
     GDH model
 
     get: heat flux, topography ...
+
+## Buoyancy of slab
+
+    see Arrial & Billen fig 1, fig 5
+
+    a. A thermal profile of slab(HFC)
+    b. A reference of mantle temperature profile
