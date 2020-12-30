@@ -22,3 +22,19 @@ def test_download_from_url():
     assert(os.path.isfile(ofile))
     # assert file content
     assert(filecmp.cmp(ofile_std, ofile))
+
+
+def test_seiscat():
+    """
+    test class SEISCAT
+    """
+    # initiate a class
+    Seiscat = Seis.SEISCAT()
+
+    # test 1
+    ifile = os.path.join(test_source_dir, 'download_from_url_output_std.txt')
+    Seiscat.ReadHeader(ifile)
+    Seiscat.ReadData(ifile)
+    print('Seiscat.header:', Seiscat.header)
+    print('Seiscat.data_str:', Seiscat.data_str)
+    print('Seiscat.data_float:', Seiscat.data_float)
