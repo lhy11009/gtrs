@@ -1,3 +1,11 @@
+# Seis.py
+
+## fix the bug in the catalog
+some lines have different number of entry
+
+## overlay on google map using Bokeh
+https://docs.bokeh.org/en/latest/
+
 # Dynamics.py
 
 ## Thermal model of oceanic floor
